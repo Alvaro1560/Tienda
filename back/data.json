@@ -1,0 +1,75 @@
+[
+    {
+      "categoria": "mujeres",
+      "nombre": "Blusa Elegante",
+      "imagen": "blusa_elegante.jpg",
+      "precio": 45.99,
+      "tallas": ["S", "M", "L"],
+      "colores": ["rojo", "negro"],
+      "disponibilidad": true
+    },
+    {
+      "categoria": "mujeres",
+      "nombre": "Pantalones de Tela",
+      "imagen": "pantalones_tela.jpg",
+      "precio": 55.50,
+      "tallas": ["S", "M", "L", "XL"],
+      "colores": ["azul", "negro"],
+      "disponibilidad": false
+    },
+    {
+      "categoria": "varones",
+      "nombre": "Camisa Formal",
+      "imagen": "camisa_formal.jpg",
+      "precio": 60.00,
+      "tallas": ["M", "L", "XL"],
+      "colores": ["blanco", "azul"],
+      "disponibilidad": true
+    },
+    {
+      "categoria": "varones",
+      "nombre": "Jeans Casuales",
+      "imagen": "jeans_casuales.jpg",
+      "precio": 40.75,
+      "tallas": ["S", "M", "L", "XL"],
+      "colores": ["azul", "gris"],
+      "disponibilidad": true
+    },
+    {
+      "categoria": "niños",
+      "nombre": "Camiseta de Superhéroe",
+      "imagen": "camiseta_superheroe.jpg",
+      "precio": 25.99,
+      "tallas": ["XS", "S", "M"],
+      "colores": ["rojo", "azul"],
+      "disponibilidad": true
+    },
+    {
+      "categoria": "niños",
+      "nombre": "Shorts Deportivos",
+      "imagen": "shorts_deportivos.jpg",
+      "precio": 20.50,
+      "tallas": ["S", "M", "L"],
+      "colores": ["negro", "verde"],
+      "disponibilidad": false
+    },
+    {
+      "categoria": "niñas",
+      "nombre": "Vestido Floral",
+      "imagen": "vestido_floral.jpg",
+      "precio": 35.99,
+      "tallas": ["XS", "S", "M"],
+      "colores": ["rosa", "amarillo"],
+      "disponibilidad": true
+    },
+    {
+      "categoria": "niñas",
+      "nombre": "Leggings de Colores",
+      "imagen": "leggings_colores.jpg",
+      "precio": 18.99,
+      "tallas": ["S", "M", "L"],
+      "colores": ["morado", "rosa"],
+      "disponibilidad": true
+    }
+  ]
+  
